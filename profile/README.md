@@ -4,19 +4,34 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founded-2024-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTFtime-Top%20100-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackTheBox-Top%2015-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Published%20Openly-c9a96a?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <strong>An independent offensive &amp; defensive security research team.</strong><br/>
+  We build offensive tooling, hunt active threats, reverse engineer malware, and share everything we find.
+</p>
+
+---
 ### Who We Are
-We are a team of researchers, engineers, and competitive players dedicated to advancing the field of cybersecurity through hands-on research and knowledge sharing.
+RaptX runs as two research teams that feed each other. The **Offensive** side breaks software, hunts vulnerabilities, and builds the tooling to do it. The **Defensive** side studies how real attacks unfold and turns that into detections defenders can use. Both publish their work in the open — free research meant to help people understand and defend real systems.
 
 ---
 ### What We Do
-- [x] **Vulnerability Research:** Publish in-depth analyses of CVEs and exploit development techniques.
-- [x] **Offensive Tooling:** Build and release open-source tools to aid in security assessments.
-- [x] **Competitive Security:** Actively compete in Capture the Flag (CTF) events globally.
-- [x] **Community Contribution:** Share knowledge and insights to strengthen the broader security community.
+
+**Offensive Security Research**
+- **Offensive Tooling** — scripts, utilities, and tools that speed up day-to-day vulnerability research.
+- **CVE Research** — hunting for vulnerabilities in real-world software and disclosing them responsibly.
+- **Research Articles &amp; Blogs** — documenting findings, techniques, tools, and lessons learned.
+
+**Defensive Security Research**
+- **Threat Hunting** — tracking active malware campaigns and threat actors to warn the community.
+- **Malware Analysis** — reverse engineering malicious software and publishing it to public databases.
+- **Detection Engineering** — writing detection rules so defenders can catch active threats.
+
+---
+### In the Open
+CVE disclosures, exploit write-ups, and detection rules — all published in the open. Our research lives right here in this org and at [raptx.org](https://raptx.org).
 
 ---
 ### Core Principles
@@ -30,17 +45,15 @@ We are a team of researchers, engineers, and competitive players dedicated to ad
 
 ---
 ### Contact
-For questions, collaboration inquiries, or ideas, we're always open to discussion.
-- 📧 **Email:** `contact@raptx.org`
-- 🌐 **Website:** `raptx.org`
+For questions, collaboration, or ideas, we're always open to discussion.
+- **Email:** `contact@raptx.org`
+- **Website:** [raptx.org](https://raptx.org)
+- **Discord:** [discord.gg/raptx](https://discord.gg/raptx)
 
 ---
 ### Find Us Elsewhere
-
-- **CTFtime:** [https://ctftime.org/team/357584](https://ctftime.org/team/357584)
-- **HackTheBox:** [https://app.hackthebox.com/teams/overview/6565](https://app.hackthebox.com/teams/overview/6565)
-- **LinkedIn:** [https://www.linkedin.com/company/raptx/](https://www.linkedin.com/company/raptx/)
-- **X (Twitter):** [https://x.com/raptxsec/](https://x.com/raptxsec/)
+- **X (Twitter):** [@raptxsec](https://x.com/raptxsec/)
+- **LinkedIn:** [linkedin.com/company/raptx](https://www.linkedin.com/company/raptx/)
 
 ---
 <p align="center">
